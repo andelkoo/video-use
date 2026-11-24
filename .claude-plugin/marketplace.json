@@ -1,0 +1,18 @@
+{
+  "name": "video-use",
+  "owner": {
+    "name": "andelkoo"
+  },
+  "plugins": [
+    {
+      "name": "video-use",
+      "description": "Edit videos by conversation: transcribe, cut, grade, overlays, subtitles. Includes manim-video.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./",
+        "./skills/manim-video"
+      ]
+    }
+  ]
+}
